@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Energy-Generators",
+  "name": "Energy Generator",
+  "description": "Addon for IC2.",
+  "version": "v2.1 by: Teddy_Zed",
+  "mcversion": "1.5.2",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Teddy_Zed", "Mglucas0123"],
+  "credits": "Made by Teddy_Zed and Mglucas0123",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
